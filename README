@@ -1,0 +1,17 @@
+# Domain Outbound Links Check
+
+*Author:* Germán Alberto Giménez Silva
+*E-mail:* ggerman@gmail.com
+*Date:* 14-08-14
+
+Get *Outbound* of you web site
+
+## Dependencies
+
+..* anemone
+..* nokogiri
+..* open-uri
+..* uri
+
+
+./outbound.rb {URL}
